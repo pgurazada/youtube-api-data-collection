@@ -14,5 +14,5 @@ First, head off to [GCP APIs](https://console.cloud.google.com/apis/) and get yo
 
 ## Collecting comments
 
-[This] notebook illustrates how to collect commments from a list of videos.
+[This](2020_06_17_comment_scraper.ipynb) notebook illustrates how to collect commments from a list of videos.
 
